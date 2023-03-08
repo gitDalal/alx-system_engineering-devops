@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r .html /tmp __l__ /0x00-shell_basics
+ln -s /tmp /0x00-shell_basics
