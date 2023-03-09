@@ -1,2 +1,2 @@
 #!/bin/bash
-ag
+su ag
