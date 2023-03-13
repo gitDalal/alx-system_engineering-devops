@@ -1,2 +1,16 @@
 #!/bin/bash
-cat ls_cwd_content
+echo "total 48
+drwxr-xr-x 2 root root 233 Mar 13 13:21 .
+drwxr-xr-x 6 root root 121 Mar 13 08:56 ..
+-rwxr-xr-x 1 root root  32 Mar 13 08:55 0-hello_world
+-rwxr-xr-x 1 root root  28 Mar 13 10:09 1-confused_smiley
+-rwxr-xr-x 1 root root  28 Mar 13 10:20 2-hellofile
+-rwxr-xr-x 1 root root  39 Mar 13 10:29 3-twofiles
+-rwxr-xr-x 1 root root  35 Mar 13 10:33 4-lastlines
+-rwxr-xr-x 1 root root  35 Mar 13 10:39 5-firstlines
+-rwxr-xr-x 1 root root  40 Mar 13 10:58 6-third_line
+-rwxr-xr-x 1 root root  13 Mar 13 13:21 7-file
+-rwxr-xr-x 1 root root  31 Mar 13 13:14 8-cwd_state
+-rw-r--r-- 1 root root 799 Mar 13 10:45 iacta
+-rw-r--r-- 1 root root   1 Mar 13 13:20 ls_cwd_content
+-rw-r--r-- 1 root root  13 Mar 13 08:42 README.md" > ls_cwd_content
